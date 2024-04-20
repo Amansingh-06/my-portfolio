@@ -1,0 +1,45 @@
+                        header section
+
+1 Include logo day-night toggle and navigation link.
+2 hover a mouse on the navigation link and see a hover color effect on this link.
+3 click on the navigation link you are go to the related page.
+
+                          Home page
+
+1 Home page includes image and social icon link and some text
+2 hover on the social icon and button and see an effect
+3 in image colour border is rotating and the image is animated up down
+
+                          About page
+
+1 image and some text in the About section
+2 when hover a mouse on image se scaling.
+
+                          skill page
+
+1 two sides of skill section one is technical skill baar is linear skill bar and another side is the circular skill bar is a professional skill
+
+                         service page
+
+1 On service page there is 3 card
+2 in card one button and hover a mouse on button button is little bit zoom and letter spacing is increases.
+3 Hover a mouse on card 1 is rotate in x second is y and third is z-axis
+
+                        portfolio page
+
+1 six card is in
+2 hover a mouse on card a mini description shown about the card on the card and a little a bit zoom
+
+                        contact page 
+
+1 Include 4 inputs one textarea and one submit button 
+footer page
+1 include 2 animated icons and some text
+
+
+this project is responsible for three device
+1 laptop
+2 iPad mini
+3 Samsung galaxy S8+
+
+
